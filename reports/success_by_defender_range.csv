@@ -1,0 +1,19 @@
+DEFENDER,RANGE,TotalShots,MadeShots,SuccessRate
+Chris Paul,"(0, 4)",6,6.0,100.0
+Chris Paul,"(10, 14)",2,0.0,0.0
+Chris Paul,"(15, 19)",2,2.0,100.0
+Chris Paul,"(20, 24)",11,7.0,63.63636363636363
+Chris Paul,"(25, 29)",5,5.0,100.0
+Chris Paul,"(5, 9)",2,1.0,50.0
+Russell Westbrook,"(0, 4)",5,1.0,20.0
+Russell Westbrook,"(10, 14)",5,0.0,0.0
+Russell Westbrook,"(15, 19)",7,4.0,57.14285714285714
+Russell Westbrook,"(20, 24)",7,1.0,14.285714285714285
+Russell Westbrook,"(25, 29)",3,3.0,100.0
+Russell Westbrook,"(5, 9)",3,1.0,33.33333333333333
+Trae Young,"(0, 4)",5,4.0,80.0
+Trae Young,"(10, 14)",5,5.0,100.0
+Trae Young,"(15, 19)",9,7.0,77.77777777777779
+Trae Young,"(20, 24)",12,12.0,100.0
+Trae Young,"(25, 29)",4,4.0,100.0
+Trae Young,"(5, 9)",7,6.0,85.71428571428571
